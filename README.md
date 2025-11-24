@@ -35,7 +35,7 @@ Algoritma estimasi saat ini memiliki korelasi **0.99** dengan jarak. Ini membukt
 ## 📂 File Structure
 - `Pizza-Delivery-Efficiency-Analysis.ipynb`: Notebook Python berisi proses cleaning, EDA, visualisasi, dan statistik korelasi.
 - `Pizza-Delivery-Efficiency-Analysis.xlsx`: File Excel berisi Dashboard interaktif dan Pivot Table untuk quick reporting.
-- `Enhanced_pizza_sell_data_2024-25/`: Folder berisi data mentah.
+- `Enhanced_pizza_sell_data_2024-25.xlsx`: Folder berisi data mentah.
 
 ---
 

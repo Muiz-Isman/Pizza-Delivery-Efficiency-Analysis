@@ -1,4 +1,3 @@
-<img width="1013" height="552" alt="download" src="https://github.com/user-attachments/assets/559ef4f4-9f4b-4200-9464-dae59c8c069d" /># Pizza-Delivery-Efficiency-Analysis
 # Analisis Keterlambatan & Akurasi Waktu Pengiriman Pizza 🍕 
 
 **Status:** Completed  

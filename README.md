@@ -23,7 +23,7 @@ Algoritma estimasi saat ini memiliki korelasi **0.99** dengan jarak. Ini membukt
 ### 2. Visualisasi: Estimasi vs Realita
 <img width="1164" height="625" alt="image" src="https://github.com/user-attachments/assets/80a787aa-1b6c-44f6-9ac6-bfbc3b40c74a" />
 
-> Terlihat pola Estimasi (Biru) terlalu linear dan optimis, sedangkan Realita (Merah) jauh lebih lama dan fluktuatif.
+> Terlihat pola Estimasi (Hijau) terlalu linear dan optimis, sedangkan Realita (Merah) jauh lebih lama dan fluktuatif.
 
 ### 3. Impact of Traffic
 <img width="971" height="642" alt="image" src="https://github.com/user-attachments/assets/1945ba58-6de0-4a7a-8575-71b3a2a20c06" />

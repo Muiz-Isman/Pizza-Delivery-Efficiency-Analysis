@@ -2,7 +2,8 @@
 
 **Status:** Completed  
 **Role:** Data Analyst  
-**Tools:** - **Python** (Pandas, Seaborn) - *Cleaning & Visualization*
+**Tools:**  
+- **Python** (Pandas, Seaborn) - *Cleaning & Visualization*
 - **SQL** (SQLite, Window Functions) - *Advanced Querying*
 - **Microsoft Excel** - *Reporting*
 

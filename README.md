@@ -51,8 +51,8 @@ Melakukan kalkulasi *Calculated Fields* di SQL untuk menghitung efisiensi `Menit
 ---
 
 ## 📂 File Structure
-- `Pizza-Delivery-Efficiency-Analysis.ipynb`: **[MAIN FILE]** Notebook berisi Full Analysis (Python EDA + SQL Implementation).
-- `queries.sql`: Kumpulan query SQL mentah yang digunakan untuk analisis efisiensi dan bottleneck.
+- `Pizza-Delivery-Efficiency-Analysis.ipynb`: **[MAIN FILE]** Notebook berisi Full Analysis.
+- `SQL_Implementation.ipynb`** Notebook implementasi teknis SQL.
 - `Pizza-Delivery-Efficiency-Analysis.xlsx`: File Excel berisi Dashboard interaktif dan Pivot Table.
 - `Enhanced_pizza_sell_data_2024-25.xlsx`: Dataset mentah.
 
